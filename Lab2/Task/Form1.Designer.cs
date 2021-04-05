@@ -1,4 +1,4 @@
-﻿namespace Lab_2
+﻿namespace Task
 {
     partial class Form1
     {
@@ -512,6 +512,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(894, 1050);
             this.Controls.Add(this.label23);
             this.Controls.Add(this.label22);
